@@ -1,4 +1,4 @@
-# Talks by Kent C. Dodds
+# Talks by [Kent C. Dodds](https://twitter.com/kentcdodds)
 
 This is a list of links recordings/slides from talks that I've given at meetups and conferences
 
