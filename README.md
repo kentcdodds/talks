@@ -27,7 +27,7 @@ Abstract:
 
 ### "Improving UX with GenieJS" at [MidwestJS 2014](http://midwestjs.com/)
 
-[slides](http://slides.com/kentcdodds/genie#/) | [workshop](http://kentcdodds.com/genie/workshop/)
+[video](https://youtu.be/lqf5mrrf4ZY) | [slides](http://slides.com/kentcdodds/genie#/) | [workshop](http://kentcdodds.com/genie/workshop/)
 
 Abstract:
 
