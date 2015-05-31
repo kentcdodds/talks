@@ -116,3 +116,15 @@ Same as above.
 ### "Moxee: Enforcing modularity in AngularJS" at [AngularJS Utah meetup March 2015](http://www.meetup.com/AngularJS-Utah/events/221087489/)
 
 [slides](http://slides.com/kentcdodds/moxee#/) | [repo](https://github.com/alianza-dev/moxee)
+
+### "ES6" at [SLC JS Learners meetup April 2015](http://www.meetup.com/SLC-JS-Learners/events/220770922/)
+
+[video](https://youtu.be/_Pn32tTtbuQ) | [repo](https://github.com/kentcdodds/es6-workshop)
+
+Abstract:
+
+> Kent C. Dodds is going to be introducing ECMAScript 6, which is the next version of JavaScript. If you want to look ahead, check this out: https://github.com/lukehoban/es6features
+
+### "Angular Directive Scope: Explained and Code Structure" at [AngularJS Utah meetup May 2015](http://www.meetup.com/AngularJS-Utah/events/222511910/)
+
+[video](https://youtu.be/ii7J-k661Zg) | [blog post](https://medium.com/@kentcdodds/19eee9e90e45)
