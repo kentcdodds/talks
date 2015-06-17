@@ -128,3 +128,7 @@ Abstract:
 ### "Angular Directive Scope: Explained and Code Structure" at [AngularJS Utah meetup May 2015](http://www.meetup.com/AngularJS-Utah/events/222511910/)
 
 [video](https://youtu.be/ii7J-k661Zg) | [blog post](https://medium.com/@kentcdodds/19eee9e90e45)
+
+### "ES6, Webpack, Karma, and Code Coverage" at [UtahJS meetup June 2015](http://www.meetup.com/UtahJS/events/222630472/)
+
+[video](https://youtu.be/P-1ZZkpEmQA) | [repo](https://github.com/kentcdodds/random-user-coverage)
