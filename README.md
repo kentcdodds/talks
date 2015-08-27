@@ -58,24 +58,7 @@ Abstract:
 
 [Jfokus 2015](http://www.jfokus.se/jfokus/)
 
-[slides](http://slides.com/kentcdodds/intro-to-angularjs) | [workshop](http://kentcdodds.com/ng-workshop/)
-
-Abstract:
-
-> AngularJS is one of the most popular frontend frameworks out there right now. If you haven't tried it yet, prepare to be amazed! Here's what we'll cover: 
-> 
-> 1. Templates/Expressions - Your View
-> 2. Module - Your app's namespace
-> 3. Directives - DOM Interface
-> 4. Filters - Display utils
-> 5. Scope - What on earth is this thing!?
-> 6. Controllers - The View Model
-> 7. Services - Common utilities
-> 8. Working with third-party modules
-> 9. Routing - Single Page App with state in the URL
-> 10. Firebase & AngularFire - A full web application with no server setup required!
->
-> We'll be following through a repository hosted on GitHub. There's a branch for each concept, so you can play around with the code and then catch right back up with the next branch. So come on, and let's learn AngularJS!
+Pretty much the shortened (3 hour) version of my workshop (noted below) in talk format.
 
 ### Improving UX with GenieJS
 
@@ -168,4 +151,40 @@ This was an impromptu talk while we were waiting for the actual speakers to come
 [UtahJS Orem meetup February 2014](http://www.meetup.com/UtahJS-Orem-Meetup/events/156148202/)
 
 Same as above. This was my first talk ever :-)
+
+## Workshops
+
+### ES6 Workshop
+
+[MidwestJS 2015](http://midwestjs.com/)
+
+[slides](slides.com/kentcdodds/es6-workshop) | [workshop](https://github.com/kentcdodds/es6-workshop) | [video 1](https://youtu.be/aeY6ctvsurs) | [video 2](https://youtu.be/a96r7Tjf0Ps)
+
+Abstract:
+
+> JavaScript is tons of fun to program in. But it only gets better with the next iteration on the language! Super sad that you have to support ES5 browsers until the end of time? Worry no more! With modern tools, you can start coding ES6 right now. Come to this training to learn how to set this up in your own project and start developing applications of the future today! The goal of this course is to get you thinking with the mind of an ES6 JavaScripter and that you’ll take that knowledge home to your projects to level-up your development. You wont be able to help yourself when we’re done :-)
+
+### Intro to AngularJS
+
+[JFokus 2015](http://www.jfokus.se/jfokus/)
+[BYU](https://byu.edu/) - I've done this twice: [Time 1](https://plus.google.com/events/c85mblqc4p327etm09otkr9gcto), [Time 2](https://plus.google.com/events/cg4g2t2825tcqg99tq9smq7stjs)
+
+[slides](http://slides.com/kentcdodds/intro-to-angularjs) | [workshop](http://kentcdodds.com/ng-workshop/) | [video](https://youtu.be/GmVUw_Efi_M)
+
+Abstract:
+
+> AngularJS is one of the most popular frontend frameworks out there right now. If you haven't tried it yet, prepare to be amazed! Here's what we'll cover: 
+> 
+> 1. Templates/Expressions - Your View
+> 2. Module - Your app's namespace
+> 3. Directives - DOM Interface
+> 4. Filters - Display utils
+> 5. Scope - What on earth is this thing!?
+> 6. Controllers - The View Model
+> 7. Services - Common utilities
+> 8. Working with third-party modules
+> 9. Routing - Single Page App with state in the URL
+> 10. Firebase & AngularFire - A full web application with no server setup required!
+>
+> We'll be following through a repository hosted on GitHub. There's a branch for each concept, so you can play around with the code and then catch right back up with the next branch. So come on, and let's learn AngularJS!
 
