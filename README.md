@@ -4,6 +4,14 @@ This is a list of links recordings/slides from talks that I've given at meetups 
 
 ## Conference Talks
 
+### How to Open Source Your Stuff
+
+[Angular Remote Conf 2015](http://angularremoteconf.com)
+
+Abstract: 
+
+> Modularity is the key to success with large apps. Build things so they work well in isolation, then piece them together to make the full application. One thing that really helps with this kind of strategy is to open source your stuff. In this talk, we'll talk about why you would want to open source your hard earned components. Then we'll take a look at an existing application, identify a good candidate component for open sourcing, and then go through the process of creating an open source project for that component and add it as a project dependency. I hope you like looking at code, because you're going to see a lot of it!
+
 ### angular-formly: Abstracting Away Complexity
 
 [MidwestJS 2015](http://midwestjs.com)
