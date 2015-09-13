@@ -174,6 +174,12 @@ Abstract:
 
 > JavaScript is tons of fun to program in. But it only gets better with the next iteration on the language! Super sad that you have to support ES5 browsers until the end of time? Worry no more! With modern tools, you can start coding ES6 right now. Come to this training to learn how to set this up in your own project and start developing applications of the future today! The goal of this course is to get you thinking with the mind of an ES6 JavaScripter and that you’ll take that knowledge home to your projects to level-up your development. You wont be able to help yourself when we’re done :-)
 
+### angular-formly
+
+[ng-conf 2015](http://www.ng-conf.org)
+
+[slides](http://slides.com/kentcdodds/angular-formly) | [repo](https://github.com/kentcdodds/angular-formly-convert)
+
 ### Intro to AngularJS
 
 [JFokus 2015](http://www.jfokus.se/jfokus/)
