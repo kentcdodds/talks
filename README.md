@@ -182,7 +182,7 @@ Abstract:
 
 ### Intro to AngularJS
 
-[JFokus 2015](http://www.jfokus.se/jfokus/)
+[JFokus 2015](http://www.jfokus.se/jfokus/) |
 [BYU](https://byu.edu/) - I've done this twice: [Time 1](https://plus.google.com/events/c85mblqc4p327etm09otkr9gcto), [Time 2](https://plus.google.com/events/cg4g2t2825tcqg99tq9smq7stjs)
 
 [slides](http://slides.com/kentcdodds/intro-to-angularjs) | [workshop](http://kentcdodds.com/ng-workshop/) | [video](https://youtu.be/GmVUw_Efi_M)
