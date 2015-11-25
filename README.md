@@ -88,6 +88,12 @@ Same as above.
 
 ## Meetup Talks
 
+### Learning JavaScript and Staying Marketable
+
+[ng-nebraska meetup November 2015](http://www.meetup.com/ng-nebraska/events/226632455/)
+
+[slides](http://slides.com/kentcdodds/learning-javascript) | [tweet](https://twitter.com/ngnebraska/status/669319695015673856)
+
 ### ES6, Webpack, Karma, and Code Coverage
 
 [UtahJS meetup June 2015](http://www.meetup.com/UtahJS/events/222630472/)
