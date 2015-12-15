@@ -176,7 +176,7 @@ Same as above. This was my first talk ever :-)
 
 [MidwestJS 2015](http://midwestjs.com/)
 
-[slides](https://slides.com/kentcdodds/es6-workshop) | [workshop](https://github.com/kentcdodds/es6-workshop) | [video 1](https://youtu.be/aeY6ctvsurs) | [video 2](https://youtu.be/a96r7Tjf0Ps)
+[slides](https://slides.com/kentcdodds/es6-workshop) | [workshop](https://github.com/kentcdodds/es6-workshop) | [TodoMVC repo](https://github.com/kentcdodds/es6-todomvc) | [video 1](https://youtu.be/aeY6ctvsurs) | [video 2](https://youtu.be/a96r7Tjf0Ps)
 
 Abstract:
 
