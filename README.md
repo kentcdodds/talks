@@ -172,6 +172,14 @@ Same as above. This was my first talk ever :-)
 
 ## Workshops
 
+### Webpack Workshop
+
+PayPal internal conference
+
+[slides](http://slides.com/kentcdodds/webpack-workshop) | [TodoMVC repo](https://github.com/kentcdodds/require-to-webpack-todomvc) | [recording](https://youtu.be/NEJyIBwo-ik)
+
+> This is similar to the second half of the ES6 Workshop except instead of the VanillaJS TodoMVC app I use the Backbone + Require.js version (because many of the developers at PayPal have apps written like that).
+
 ### ES6 Workshop
 
 [MidwestJS 2015](http://midwestjs.com/)
