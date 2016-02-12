@@ -4,7 +4,7 @@ This is a list of links recordings/slides from talks that I've given at meetups 
 
 ## Conference Talks
 
-### 
+### Zero to 60 in software development: How to jumpstart your career
 
 [Foward 4 Web Summit](http://forwardjs.com/)
 
@@ -15,6 +15,16 @@ Abstract:
 > Our industry has a problem. We have a "talent shortage," so we're loading the industry with new developers from various bootcamps, but they're having trouble finding jobs because many companies are unwilling to hire and train them. So these new developers are left to themselves to try and find ways to develop the skills they need to be "marketable."
 > 
 > I graduated from college in April 2014, just shy of two years ago. In that time, I've been able to learn a ton, build a bunch of stuff, teach workshops, create egghead screencasts, speak at conferences, and generally contribute quite a bit to the JavaScript community. In this talk, I'll cover some solid principles of things that I’ve learned in my experience. This will help new-comers to jumpstart their career. And help old-timers know how they can help new-comers.
+
+### A beginner's guide to ASTs
+
+[JS Remote Conf 2016](https://allremoteconfs.com/js-2016)
+
+[slides](slides.com/kentcdodds/a-beginners-guide-to-asts) | [code](http://kcd.im/beginner-asts-code)
+
+Abstract:
+
+> The Abstract Syntax Tree. It sounds a lot worse than it is. It’s actually quite simple and enables some powerful tools. BabelJS uses it to transform your code from ES.Next to ES5. ESLint uses it to lint your code. And with a knowledge of how it works, you can extend these and other tools to do some mind bustingly powerful things. Prepare to be amazed by ASTs!
 
 ### How to Open Source Your Stuff
 
