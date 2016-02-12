@@ -4,6 +4,18 @@ This is a list of links recordings/slides from talks that I've given at meetups 
 
 ## Conference Talks
 
+### 
+
+[Foward 4 Web Summit](http://forwardjs.com/)
+
+[slides](https://slides.com/kentcdodds/zero-to-60)
+
+Abstract:
+
+> Our industry has a problem. We have a "talent shortage," so we're loading the industry with new developers from various bootcamps, but they're having trouble finding jobs because many companies are unwilling to hire and train them. So these new developers are left to themselves to try and find ways to develop the skills they need to be "marketable."
+> 
+> I graduated from college in April 2014, just shy of two years ago. In that time, I've been able to learn a ton, build a bunch of stuff, teach workshops, create egghead screencasts, speak at conferences, and generally contribute quite a bit to the JavaScript community. In this talk, I'll cover some solid principles of things that I’ve learned in my experience. This will help new-comers to jumpstart their career. And help old-timers know how they can help new-comers.
+
 ### How to Open Source Your Stuff
 
 [Angular Remote Conf 2015](http://angularremoteconf.com)
@@ -171,6 +183,32 @@ This was an impromptu talk while we were waiting for the actual speakers to come
 Same as above. This was my first talk ever :-)
 
 ## Workshops
+
+### React + AVA = ❤️
+
+PayPal internal workshop.
+
+[slides](http://slides.com/kentcdodds/react-ava) | [repo](https://github.com/kentcdodds/react-ava) | [recording](https://youtu.be/UmDNx06472I)
+
+Here's the description for the original event when I gave this at PayPal:
+
+> Hey everyone! I hope you're excited about testing!
+> If you're curious about what ava is, check out http://npm.im/ava
+> If you're curious about testing in React, check out https://facebook.github.io/react/docs/test-utils.html
+> 
+> We'll be using a common repo to do the workshop. You can find it here: https://github.com/kentcdodds/react-ava-workshop 
+> 
+> The format of the workshop will be:
+> - I give a brief intro to concepts
+> - You use those concepts to accomplish a task
+> - Repeat
+> 
+> Things you'll need:
+> - Your laptop
+> - git
+> - node (preferably a recent version, but 0.10.x should hopefully work fine)
+> - npm (preferably 3.x, but 2.x should hopefully work fine)
+
 
 ### Webpack Workshop
 
