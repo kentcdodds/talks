@@ -20,7 +20,7 @@ Abstract:
 
 [JS Remote Conf 2016](https://allremoteconfs.com/js-2016)
 
-[slides](slides.com/kentcdodds/a-beginners-guide-to-asts) | [code](http://kcd.im/beginner-asts-code)
+[slides](https://slides.com/kentcdodds/a-beginners-guide-to-asts) | [code](http://kcd.im/beginner-asts-code)
 
 Abstract:
 
