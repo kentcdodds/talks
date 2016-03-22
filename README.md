@@ -8,7 +8,7 @@ This is a list of links recordings/slides from talks that I've given at meetups 
 
 [Foward 4 Web Summit](http://forwardjs.com/)
 
-[slides](https://slides.com/kentcdodds/zero-to-60)
+[video](https://youtu.be/-qPh6I2hfjw) | [slides](https://slides.com/kentcdodds/zero-to-60)
 
 Abstract:
 
