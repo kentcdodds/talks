@@ -4,6 +4,24 @@ This is a list of links recordings/slides from talks that I've given at meetups 
 
 ## Conference Talks
 
+### The First Pull Request
+
+[Fluent Conf 2016](http://conferences.oreilly.com/fluent/javascript-html-us/public/schedule/detail/46612)
+
+[video](https://youtu.be/HjgZQeMrw6c) | [slides](http://slides.com/kentcdodds/1st-pr)
+
+Abstract:
+
+> "Feel free to submit a pull request." For some, this is a welcome invitation, but for many developers, pull requests are intimidating, discouraging them from contributing to the community. Kent Dodds demonstrates how easy and fun it is to create a pull request as a first timer.
+> 
+> To open source newcomers
+> You, open source newcomer, can be a valuable contributor to the open source community. We need you here. We want your input and contributions. But getting over that initial hump of contributing can be a real challenge. I call this the first-timer's dilemma. You want to contribute, but you don't know how, or you're afraid your pull request (PR) won't get merged. You'll learn that it's less frightening and easier to get started than you think, as you become familiar with the common patterns and processes you need to understand in order to contribute to an open source project.
+> 
+> To open source project maintainers
+> You, open source project maintainer, are the lifeblood of the open source community. Developers power open source. The more people finding, reporting, and fixing bugs or adding/removing features the better. You have the power to help newcomers overcome the first-timer's dilemma. You'll see what challenges first-timers often face and how with just a few extra minutes of your time, you can help tear down these barriers and make your project more friendly to contributors (including first-timers).
+> 
+> Whether you'e new to open source or a pro, Kent will help you as we strive to make the open source community more open and friendly.
+
 ### Zero to 60 in software development: How to jumpstart your career
 
 [Foward 4 Web Summit](http://forwardjs.com/)
