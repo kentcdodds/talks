@@ -147,6 +147,10 @@ Abstract:
 
 [slides](http://slides.com/kentcdodds/learning-javascript) | [tweet](https://twitter.com/ngnebraska/status/669319695015673856)
 
+Abstract:
+
+> Angular is amazing and has contributed to a major change in the landscape of frontend web development forever. But frameworks come and go. Even though Angular 1.x will still be around for a few years, it will eventually be totally antiquated and you'll need to show off other kinds of skills to attract employers. What if there were a way that you could learn skills you need to both be effective Angular developers today and develop skills that will make you marketable for many more years to come? Spoiler, I'm talking about JavaScript. Let's go over why that's important and a few ways to accomplish this.
+
 ### ES6, Webpack, Karma, and Code Coverage
 
 [UtahJS meetup June 2015](http://www.meetup.com/UtahJS/events/222630472/)
