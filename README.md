@@ -2,6 +2,8 @@
 
 This is a list of links recordings/slides from talks that I've given at meetups and conferences (starting from most recent).
 
+For all the talks I have on YouTube, I add the video to [this playlist](https://www.youtube.com/playlist?list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
+
 ## Conference Talks
 
 ### The First Pull Request
