@@ -6,6 +6,54 @@ For all the talks I have on YouTube, I add the video to [this playlist](https://
 
 ## Conference Talks
 
+### Harnessing the Power of Webpack
+
+[MidwestJS 2016](http://midwestjs.com/)
+
+Abstract:
+
+> "The secret to building large apps is never build large apps. Break your applications into small pieces. Then, assemble those testable, bite-sized pieces into your big application" -Justin Meyer
+>
+> Webpack was created to enable this. Come learn what Webpack and its wealth of plugins and functionality can do for your large app. When we’re done, you’ll want to migrate your monolithic gulp build.
+>
+> JavaScript is changing rapidly and if you’re not building yours, you're seriously falling behind and missing out. More and more people are writing code that is transpiled first before it’s sent to the browser. This is not temporary, there will always be new features in JavaScript or CSS that we want to use today. With tools like BabelJS or TypeScript and CSS pre-processors we can deal with this, but how do you wire up this tooling in a way that's modular?
+>
+> One of the great enemies to modularity is implicit dependencies. Many JavaScript applications have dependencies on some global state (you require some jQuery plugin or Angular module to be on the page first to work). We need something that allows us to declare our dependencies explicitly or our hair might just catch fire...
+>
+> Enter Webpack. With amazing built-in functionality and a wealth of loaders and plugins, Webpack can allow you to take your complicated build process and simplify it all the while enabling modularity and pre-processing. But wait, there's more! Ever heard of CSS modules? Code splitting? Hot reloading? Come learn how Webpack uniquely makes these things possible.
+
+### Testing React
+
+[MidwestJS 2016](http://midwestjs.com/)
+
+Abstract:
+
+> I hope you're excited about testing! We all know we need to get testing better, but it can be really hard to know how and what to test. We'll learn about the three inputs to React components (user input, props, and data) and how to test for each of them. You'll discover that if you slightly modify the way you're writing your components, you can make them much easier to test. We'll be using the new super fast AVA testing framework and even see how to add code coverage with nyc.
+
+> I hope you like code. You're gonna see some here!
+
+### A beginner's guide to ASTs
+
+[KCDC 2016](http://www.kcdc.info/)
+
+[slides](https://slides.com/kentcdodds/a-beginners-guide-to-asts) | [code](http://kcd.im/beginner-asts-code)
+
+Abstract:
+
+> The Abstract Syntax Tree. It sounds a lot worse than it is. It’s actually quite simple and enables some powerful tools. BabelJS uses it to transform your code from ES.Next to ES5. ESLint uses it to lint your code. And with a knowledge of how it works, you can extend these and other tools to do some mind bustingly powerful things. Prepare to be amazed by ASTs!
+
+### Managing an Open Source Project
+
+[Space City JS 2016](http://spacecity.codes/)
+
+Abstract:
+
+> Awesome! You’ve made it big! You’ve published an open source project and people are actually using it to make the world a better place. Achievement unlocked! Great job! But wait… what’s this? An issue? Oh, it’s just a bug. Pretty quick and easy. Fixed, released, done, #likeaboss 😎. What’s this? A PR? How cool! Wait… That’s not quite right… Oh, a question! Cool! And another! And another… eh… and another… Uh oh… I think I’ve just sold my soul to this project.
+>
+> You start an open source project to scratch your own itch and suddenly other people start using it and they need your help. This can easily start eating up your time big time and before you know it, your kids start feeling neglected.
+>
+> I’ve had to deal with this in a few projects and I’ve learned a thing or two about work/life/oss balance. I have a few tricks that help you make the project manage itself a bit more while still being friendly and helpful to users of the project.
+
 ### The First Pull Request
 
 [Fluent Conf 2016](http://conferences.oreilly.com/fluent/javascript-html-us/public/schedule/detail/46612)
@@ -40,11 +88,7 @@ Abstract:
 
 [JS Remote Conf 2016](https://allremoteconfs.com/js-2016)
 
-[slides](https://slides.com/kentcdodds/a-beginners-guide-to-asts) | [code](http://kcd.im/beginner-asts-code)
-
-Abstract:
-
-> The Abstract Syntax Tree. It sounds a lot worse than it is. It’s actually quite simple and enables some powerful tools. BabelJS uses it to transform your code from ES.Next to ES5. ESLint uses it to lint your code. And with a knowledge of how it works, you can extend these and other tools to do some mind bustingly powerful things. Prepare to be amazed by ASTs!
+Same as above...
 
 ### How to Open Source Your Stuff
 
@@ -228,6 +272,34 @@ This was an impromptu talk while we were waiting for the actual speakers to come
 Same as above. This was my first talk ever :-)
 
 ## Workshops
+
+### ES6/2016
+
+[Connect.JS 2016](http://connect-js.com/)
+
+> The EcmaScript standard is now on a yearly release cycle. With ES6 complete and ES2016 almost ratified, we have a ton of awesome new features to use in our daily software development. In this training, we'll learn about the features you're likely to use and benefit from on a day-to-day basis. In the afternoon, we'll take an existing application and update it to leverage these features using with modern tools like Babel. My goal is that after this training, you'll be able to go back to your projects and add these tools so you can write ES.next code today.
+>
+> This is a very hands-on training and you'll need to make sure that you're machine is set up. Please ensure that you have git, Node, npm, and a text editor / IDE installed on your machine. With that, you'll be ready to rock and roll. Feel free to hit me up on twitter if you have any questions.
+
+### React.js
+
+[MidwestJS 2016](http://midwestjs.com/)
+
+### Webpack Deep Dive
+
+[Frontend Masters](https://frontendmasters.com/)
+
+### How to Write an Open Source JavaScript Library
+
+[Frontend Masters](https://frontendmasters.com/)
+
+### Learning and using the features of ES6 (and friends)
+
+[KCDC 2016](http://www.kcdc.info/)
+
+> The EcmaScript standard is now on a yearly release cycle. With ES6 complete and ES2016 almost ratified, we have a ton of awesome new features to use in our daily software development. In this training, we'll learn about the features you're likely to use and benefit from on a day-to-day basis. In the afternoon, we'll take an existing application and update it to leverage these features using with modern tools like Babel. My goal is that after this training, you'll be able to go back to your projects and add these tools so you can write ES.next code today.
+>
+> This is a very hands-on training and you'll need to make sure that you're machine is set up. Please ensure that you have git, Node, npm, and a text editor / IDE installed on your machine. With that, you'll be ready to rock and roll. Feel free to hit me up on twitter if you have any questions.
 
 ### React + AVA = ❤️
 
