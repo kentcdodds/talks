@@ -72,6 +72,18 @@ Abstract:
 > 
 > Whether you'e new to open source or a pro, Kent will help you as we strive to make the open source community more open and friendly.
 
+### What we can learn about testing from the wheel
+
+[Ignite Fluent 2016](http://conferences.oreilly.com/fluent/javascript-html-us/public/schedule/detail/48271)
+
+[video](https://youtu.be/Da9wfQ0frGA) | [slides](https://drive.google.com/file/d/0BxZDtibcRzVWNFU3VXM2RzJ1SG8/view?usp=sharing)
+
+Abstract:
+
+> Knowing what and how to test is almost more difficult than actually writing the test. If you write only end-to-end tests, you'll struggle with reliability and speed. If you write only unit tests, you'll struggle with surprising bugs integrating things together.
+> 
+> I'm this ignite talk, we'll take these concepts away from code for a moment to see how we would test a wheel. Prepare for an enlightening, entertaining 5 minutes 😀.
+
 ### Zero to 60 in software development: How to jumpstart your career
 
 [Foward 4 Web Summit](http://forwardjs.com/)
