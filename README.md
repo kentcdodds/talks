@@ -82,7 +82,7 @@ Abstract:
 
 > Knowing what and how to test is almost more difficult than actually writing the test. If you write only end-to-end tests, you'll struggle with reliability and speed. If you write only unit tests, you'll struggle with surprising bugs integrating things together.
 > 
-> I'm this ignite talk, we'll take these concepts away from code for a moment to see how we would test a wheel. Prepare for an enlightening, entertaining 5 minutes 😀.
+> In this ignite talk, we'll take these concepts away from code for a moment to see how we would test a wheel. Prepare for an enlightening, entertaining 5 minutes 😀.
 
 ### Zero to 60 in software development: How to jumpstart your career
 
