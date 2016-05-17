@@ -46,6 +46,8 @@ Abstract:
 
 [Space City JS 2016](http://spacecity.codes/)
 
+[video](https://youtu.be/jKI1Kj5VXqE) (practice run at a meetup) | [slides](http://kcd.im/manage-oss)
+
 Abstract:
 
 > Awesome! You’ve made it big! You’ve published an open source project and people are actually using it to make the world a better place. Achievement unlocked! Great job! But wait… what’s this? An issue? Oh, it’s just a bug. Pretty quick and easy. Fixed, released, done, #likeaboss 😎. What’s this? A PR? How cool! Wait… That’s not quite right… Oh, a question! Cool! And another! And another… eh… and another… Uh oh… I think I’ve just sold my soul to this project.
