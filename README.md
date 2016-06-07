@@ -4,6 +4,8 @@ This is a list of links recordings/slides from talks that I've given at meetups 
 
 For all the talks I have on YouTube, I add the video to [this playlist](https://www.youtube.com/playlist?list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
 
+You might also be interested in my [appearances](https://github.com/kentcdodds/appearances)
+
 ## Conference Talks
 
 ### Harnessing the Power of Webpack
