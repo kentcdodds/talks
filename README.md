@@ -303,11 +303,11 @@ Same as above. This was my first talk ever :-)
 
 ### Webpack Deep Dive
 
-[Frontend Masters](https://frontendmasters.com/)
+[Frontend Masters](http://kcd.im/fem-webpack)
 
 ### How to Write an Open Source JavaScript Library
 
-[Frontend Masters](https://frontendmasters.com/)
+[Frontend Masters](http://kcd.im/fem-oss)
 
 ### Learning and using the features of ES6 (and friends)
 
