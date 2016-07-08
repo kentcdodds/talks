@@ -34,11 +34,11 @@ Abstract:
 
 > I hope you like code. You're gonna see some here!
 
-### A beginner's guide to ASTs
+### Transform your code like Optimus Prime: ASTs for Beginners
 
 [KCDC 2016](http://www.kcdc.info/)
 
-[slides](https://slides.com/kentcdodds/a-beginners-guide-to-asts) | [code](http://kcd.im/beginner-asts-code)
+[slides](https://slides.com/kentcdodds/a-beginners-guide-to-asts) | [code](http://kcd.im/beginner-asts-code) | [video](https://youtu.be/WO7H2NHmN18) (from a [BeMyApp](http://events.bemyapp.com/) [event](https://www.eventbrite.com/e/transform-your-code-like-optimus-prime-asts-for-beginners-wkent-c-dodds-tickets-26281147620))
 
 Abstract:
 
