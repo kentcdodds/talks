@@ -160,7 +160,7 @@ Abstract:
 
 [Jfokus 2015](http://www.jfokus.se/jfokus/)
 
-[video](http://kentcdodds.com/react-in-angular/) | [app](http://kentcdodds.com/react-in-angular/app/) | [repo](https://github.com/kentcdodds/react-in-angular)
+[video](https://youtu.be/AiE4ajXh7dY) | [flash video](http://kentcdodds.com/react-in-angular/) :shrug: | [app](http://kentcdodds.com/react-in-angular/app/) | [repo](https://github.com/kentcdodds/react-in-angular)
 
 Abstract:
 
