@@ -8,21 +8,16 @@ You might also be interested in my [appearances](https://github.com/kentcdodds/a
 
 ## Conference Talks
 
-### Harnessing the Power of Webpack
+### More than you want to know about ES6 Modules
 
 [MidwestJS 2016](http://midwestjs.com/)
 
+[slides](https://slides.com/kentcdodds/es6-modules)
+
 Abstract:
 
-> "The secret to building large apps is never build large apps. Break your applications into small pieces. Then, assemble those testable, bite-sized pieces into your big application" -Justin Meyer
->
-> Webpack was created to enable this. Come learn what Webpack and its wealth of plugins and functionality can do for your large app. When we’re done, you’ll want to migrate your monolithic gulp build.
->
-> JavaScript is changing rapidly and if you’re not building yours, you're seriously falling behind and missing out. More and more people are writing code that is transpiled first before it’s sent to the browser. This is not temporary, there will always be new features in JavaScript or CSS that we want to use today. With tools like BabelJS or TypeScript and CSS pre-processors we can deal with this, but how do you wire up this tooling in a way that's modular?
->
-> One of the great enemies to modularity is implicit dependencies. Many JavaScript applications have dependencies on some global state (you require some jQuery plugin or Angular module to be on the page first to work). We need something that allows us to declare our dependencies explicitly or our hair might just catch fire...
->
-> Enter Webpack. With amazing built-in functionality and a wealth of loaders and plugins, Webpack can allow you to take your complicated build process and simplify it all the while enabling modularity and pre-processing. But wait, there's more! Ever heard of CSS modules? Code splitting? Hot reloading? Come learn how Webpack uniquely makes these things possible.
+> ES6 Modules have been standardized and many have already started using them. They have a lot of benefits over CommonJS, AMD, and Globals.
+> Unfortunately, there are many ways to deal with modules with this new syntax and it can be a bit confusing. In this talk, we'll explore the different ways you can use the new syntax and when you'd use the different methods. We'll also investigate what's going on at a high level. Buckle up for a firehose of ES6 information.
 
 ### Testing React
 
@@ -196,12 +191,7 @@ Same as above.
 
 [Modern Web Remote Meetup](https://www.bigmarker.com/modernweb/ES6-Modules-Mastering-Chrome-Developer-Tools-and-more)
 
-[slides](https://slides.com/kentcdodds/es6-modules)
-
-Abstract:
-
-> ES6 Modules have been standardized and many have already started using them. They have a lot of benefits over CommonJS, AMD, and Globals.
-> Unfortunately, there are many ways to deal with modules with this new syntax and it can be a bit confusing. In this talk, we'll explore the different ways you can use the new syntax and when you'd use the different methods. We'll also investigate what's going on at a high level. Buckle up for a firehose of ES6 information.
+Same as above.
 
 ### Learning JavaScript and Staying Marketable
 
