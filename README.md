@@ -189,6 +189,8 @@ Same as above.
 
 ### More than you want to know about ES6 Modules
 
+[JavaScript KC](https://www.meetup.com/JavaScriptKC/events/231844450/) | [video](https://youtu.be/qi_rLTcXers)
+
 [Modern Web Remote Meetup](https://www.bigmarker.com/modernweb/ES6-Modules-Mastering-Chrome-Developer-Tools-and-more)
 
 Same as above.
