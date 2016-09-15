@@ -283,7 +283,8 @@ Same as above. This was my first talk ever :-)
 
 ### ES6/2016
 
-[Connect.JS 2016](http://connect-js.com/)
+- [The Strange Loop 2016](http://www.thestrangeloop.com/2016/es6-and-beyond.html): [video](https://youtu.be/dnF-wrw0Q_w)
+- [Connect.JS 2016](http://connect-js.com/)
 
 > The EcmaScript standard is now on a yearly release cycle. With ES6 complete and ES2016 almost ratified, we have a ton of awesome new features to use in our daily software development. In this training, we'll learn about the features you're likely to use and benefit from on a day-to-day basis. In the afternoon, we'll take an existing application and update it to leverage these features using with modern tools like Babel. My goal is that after this training, you'll be able to go back to your projects and add these tools so you can write ES.next code today.
 >
