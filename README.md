@@ -10,9 +10,11 @@ You might also be interested in my [appearances](https://github.com/kentcdodds/a
 
 ### More than you want to know about ES6 Modules
 
+[slides](https://slides.com/kentcdodds/es6-modules)
+
 [MidwestJS 2016](http://midwestjs.com/)
 
-[slides](https://slides.com/kentcdodds/es6-modules)
+JS@PayPal: [video](https://youtu.be/V0YQ0rnh-Hg)
 
 Abstract:
 
