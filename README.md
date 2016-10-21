@@ -37,6 +37,8 @@ You might also be interested in my [appearances](https://github.com/kentcdodds/a
 
 [KCDC 2016](http://www.kcdc.info/)
 
+[Connect Tech 2016](http://connect.tech/) - [video](https://youtu.be/nCP6jsN9XPI) | [ES6 Workshop](https://github.com/kentcdodds/es6-workshop) | [slides](https://slides.com/kentcdodds/es6-workshop)
+
 > The EcmaScript standard is now on a yearly release cycle. With ES6 complete and ES2016 almost ratified, we have a ton of awesome new features to use in our daily software development. In this training, we'll learn about the features you're likely to use and benefit from on a day-to-day basis. In the afternoon, we'll take an existing application and update it to leverage these features using with modern tools like Babel. My goal is that after this training, you'll be able to go back to your projects and add these tools so you can write ES.next code today.
 >
 > This is a very hands-on training and you'll need to make sure that you're machine is set up. Please ensure that you have git, Node, npm, and a text editor / IDE installed on your machine. With that, you'll be ready to rock and roll. Feel free to hit me up on twitter if you have any questions.
